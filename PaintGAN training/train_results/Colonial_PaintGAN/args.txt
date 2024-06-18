@@ -1,0 +1,10 @@
+{
+  "path": "./datasets/150-shot-col/img",
+  "cuda": 0,
+  "name": "Panda_protoGAN",
+  "iter": 10000,
+  "start_iter": 0,
+  "batch_size": 8,
+  "im_size": 256,
+  "ckpt": "None"
+}
